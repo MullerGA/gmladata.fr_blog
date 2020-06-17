@@ -1,0 +1,22 @@
+---------------
+Lancement Macro
+Dossier: C:\Users\GM\Desktop\MACROSERIE\IMPORTCSV\CSV_FOLDER
+Extension: csv
+---------------
+--- 3 Fichiers dans le dossier ---
+---------------
+Fichier 1 : autre_fichier.txt
+"L'extension du fichier ne correspond pas à csv"
+---------------
+Fichier 2 : consommation-quotidienne-brute-elec-grand-nancy.csv
+"Import consommation-quotidienne-brute-elec-grand-nancy.csv"
+4608 rows created in WORK.DSN1 from 
+C:\Users\GM\Desktop\MACROSERIE\IMPORTCSV\CSV_FOLDER\consommation-quotidienne-brute-elec-grand-nancy.csv.
+
+---------------
+Fichier 3 : Pays_Villes.csv
+"Import Pays_Villes.csv"
+5 rows created in WORK.DSN2 from C:\Users\GM\Desktop\MACROSERIE\IMPORTCSV\CSV_FOLDER\Pays_Villes.csv.
+---------------
+Fin Macro
+---------------
